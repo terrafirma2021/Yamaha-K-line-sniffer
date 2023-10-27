@@ -1,5 +1,7 @@
 # Yamaha K-Line Data Logger
 
+![Tool](https://github.com/terrafirma2021/Yamaha-K-line-sniffer/raw/main/github.png)
+
 This Python script is designed to interface with a Yamaha K-Line ECU through a USB OBD KKL Cable, providing a convenient and organized way to display, log, and manage the received bytes.
 
 ## Features:
